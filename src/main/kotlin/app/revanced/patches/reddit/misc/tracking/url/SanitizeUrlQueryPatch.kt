@@ -1,4 +1,8 @@
+<<<<<<< HEAD:src/main/kotlin/app/revanced/patches/reddit/misc/tracking/url/SanitizeUrlQueryPatch.kt
 package app.revanced.patches.reddit.misc.tracking.url
+=======
+package app.revanced.patches.reddit.misc.tracking.url.patch
+>>>>>>> dev:src/main/kotlin/app/revanced/patches/reddit/misc/tracking/url/patch/SanitizeUrlQueryPatch.kt
 
 import app.revanced.extensions.exception
 import app.revanced.patcher.data.BytecodeContext
